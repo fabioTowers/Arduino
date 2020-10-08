@@ -2,8 +2,8 @@
   PontoCuboLED
 
   Esse programa acende um unico LED em um cubo de LED's 4x4x4, movimentando ele por todo
-  o cubo de maneira aleatória. Há um vídeo demonstrativo do funcionamento desse programa 
-  na pasta do GitHub onde está este código
+  o cubo de maneira aleatória. Há um gif demonstrativo do funcionamento desse programa 
+  na pasta do GitHub onde está este código, no arquivo README.md
 
   O cubo de LED's foi abstraido da seguinte forma:
   - As 16 saídas referentes às colunas são tratadas como uma matriz 4x4;
